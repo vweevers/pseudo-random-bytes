@@ -6,7 +6,7 @@
 [![npm status](http://img.shields.io/npm/v/pseudo-random-buffer.svg)](https://www.npmjs.org/package/pseudo-random-buffer)
 [![node](https://img.shields.io/node/v/pseudo-random-buffer.svg)](https://www.npmjs.org/package/pseudo-random-buffer)
 [![Travis build status](https://img.shields.io/travis/vweevers/pseudo-random-buffer.svg?label=travis)](http://travis-ci.org/vweevers/pseudo-random-buffer)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/pseudo-random-buffer.svg)](https://greenkeeper.io/)
 
 ## Usage
 
